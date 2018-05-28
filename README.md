@@ -33,6 +33,7 @@ Merge存储引擎是一组MyISAM表的组合，这些MyISAM表必须结构完全
 #### MySQL事务隔离级别
 ![](https://github.com/tunrijituan/Mysql-/blob/master/TIM%E5%9B%BE%E7%89%8720180527191835.png)
 * mysql中默认事务隔离级别是可重复读
+
  
 
  
